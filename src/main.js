@@ -18,6 +18,7 @@ Vue.use(VueGoogleMaps, {
   }
 })
 // tell vue to use the router
+//test
 Vue.use(VueRouter)
 
 
